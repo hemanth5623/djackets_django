@@ -1,3 +1,3 @@
 # djackets_django
 
-This repository is a part of a YouTube tutorial.
+This repository is the django code of the e-commerce site
